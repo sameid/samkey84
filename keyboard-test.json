@@ -1,0 +1,22 @@
+{
+	"keyboard_name": "Sameid's Awesome Keyboard Beta",
+	"processor": "WB32FQ95",
+	"bootloader": "wb32-dfu",
+	"apa102": {
+		"data_pin": "A0",
+		"clock_pin": "B8"
+	},
+	"features": {
+		"console": true
+	},
+	"matrix_pins": {
+		"rows": ["C0"],
+		"cols": ["A0"]
+	},
+	"diode_direction": "COL2ROW",
+	"layouts": {
+		"LAYOUT_75_ansi": {
+			"layout": [{ "matrix": [0, 0], "x": 0, "y": 0 }]
+		}
+	}
+}
