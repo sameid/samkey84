@@ -1,6 +1,6 @@
-#samkeys84
+# samkeys84
 
-###Custom firmware written for the Lofree Flow 2 (84-key) keyboard, since Lofree bricked my keyboard!
+### Custom firmware written for the Lofree Flow 2 (84-key) keyboard, since Lofree bricked my keyboard!
 
 What's working:
 
